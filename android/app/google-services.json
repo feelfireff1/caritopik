@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "483771688131",
+    "project_id": "caritopik-46f37",
+    "storage_bucket": "caritopik-46f37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483771688131:android:8d7b37b5bd9160d2c46e76",
+        "android_client_info": {
+          "package_name": "com.mrezkys.caritopik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483771688131-0386nnf1dnc673u50ila9nug5305mck9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYZobKhZuYOf0B9PNRzO7CocIHblkeV-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483771688131-0386nnf1dnc673u50ila9nug5305mck9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
