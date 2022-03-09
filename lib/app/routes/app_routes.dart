@@ -10,6 +10,9 @@ abstract class Routes {
   static const ADD_PRODUCT = _Paths.ADD_PRODUCT;
   static const EDIT_PRODUCT = _Paths.EDIT_PRODUCT;
   static const WELCOME = _Paths.WELCOME;
+  static const SWITCH = _Paths.SWITCH;
+  static const BOOKMARKS = _Paths.BOOKMARKS;
+  static const PROFILE = _Paths.PROFILE;
 }
 
 abstract class _Paths {
@@ -19,4 +22,7 @@ abstract class _Paths {
   static const ADD_PRODUCT = '/add-product';
   static const EDIT_PRODUCT = '/edit-product';
   static const WELCOME = '/welcome';
+  static const SWITCH = '/switch';
+  static const BOOKMARKS = '/bookmarks';
+  static const PROFILE = '/profile';
 }
